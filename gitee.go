@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"gitcode.com/revere/scm"
+	"github.com/drone/go-scm/scm"
 )
 
 // New returns a new Gitee API client.
